@@ -1,4 +1,4 @@
-# Robot vs Human, Tic Tac Toe
+# Robot vs Human, Minimax Tic Tac Toe
 
 ## Description
 This is an AI using the minimax algorithm. 
